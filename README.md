@@ -2,10 +2,6 @@
 
 **Explorando o Mundo** é um projeto web desenvolvido para compartilhar experiências, dicas e informações sobre viagens e descobertas ao redor do mundo. Com uma interface amigável e responsiva, o site oferece aos usuários uma maneira envolvente de explorar diversos destinos.
 
-## 📸 Demonstração
-
-![oaicite:8](images/screenshot.png)
-
 ## 🚀 Funcionalidades
 
 * Layout responsivo adaptado para dispositivos móveis e desktops
